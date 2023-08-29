@@ -1,0 +1,2 @@
+# JavaSnake
+Simple Java Project 
